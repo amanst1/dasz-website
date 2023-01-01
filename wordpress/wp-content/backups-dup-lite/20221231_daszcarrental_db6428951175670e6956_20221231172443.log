@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: December 31, 2022 5:26 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.1
+WORDPRESS:	6.1.1
+PHP INFO:	8.1.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 60MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20221231_daszcarrental_db6428951175670e6956_20221231172443_database.sql
+SQL FILE SIZE: 16.5MB (17299554)
+SQL FILE TIME: 2022-12-31 17:27:01
+SQL RUNTIME: 28.15 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/dasz/dasz-website/wordpress
+ARCHIVE FILE: 20221231_daszcarrental_db6428951175670e6956_20221231172443_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	153.36MB
+STATS:	Dirs 1,496 | Files 6,952
+SQL ADDED: 20221231_daszcarrental_db6428951175670e6956_20221231172443_database.sql
+ZipArchive Object
+(
+    [lastId] => 8447
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 8448
+    [filename] => C:\xampp\htdocs\dasz\dasz-website\wordpress\wp-content\backups-dup-lite\tmp\20221231_daszcarrental_db6428951175670e6956_20221231172443_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 8447
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 60.56MB
+ARCHIVE RUNTIME: 160.77 sec.
+MEMORY STACK: 64MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 16.5MB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 62.45MB 
+EXPECTED FILE/DIRECTORY COUNT: 8,448
+ACTUAL FILE/DIRECTORY COUNT: 8,447
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 195.40 sec.
+PEAK PHP MEMORY USED: 64MB
+DONE PROCESSING => 20221231_daszcarrental December 31, 2022 5:29 pm
+
